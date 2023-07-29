@@ -8,7 +8,7 @@ First, run the development server:
 npm i 
 
 ```
-* "AFTER" * 
+"AFTER" 
 ```bash
 npm run dev
 # or
